@@ -1,4 +1,1 @@
-# first-project
-first-project commit
-
-second commit
+first-project
